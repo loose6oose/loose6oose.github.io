@@ -1,0 +1,10 @@
+a.text-light:hover, a.text-light:focus {
+  color: #18bc9c !important;
+  text-decoration: none;
+}
+
+a.curr-page {
+  color: #18bc9c !important;
+  text-decoration: none;
+}
+
