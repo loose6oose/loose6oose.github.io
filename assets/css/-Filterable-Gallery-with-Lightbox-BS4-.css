@@ -41,7 +41,7 @@
 .filtr-controls span.active:after {
   width: 100%;
   left: 0;
-  background: #000;
+  background: #ffffff;
 }
 
 @media (max-width:479px) {
@@ -77,7 +77,7 @@
 
 .filtr-item > a:after {
   font-family: FontAwesome;
-  content: '\f0fe';
+  /*content: '\f0fe';*/
   position: absolute;
   z-index: 11;
   top: 50%;
